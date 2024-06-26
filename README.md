@@ -4,3 +4,5 @@
 - [kiterunner API tool windows installation](https://ryn0f1sh.medium.com/kiterunner-api-fuzzer-windows-installation-b6e524b93ad9)
 - [Active API Reconnaissance](https://medium.com/@enessyibrahim/100-days-of-hacking-day-4-active-api-reconnaissance-unveiling-vulnerabilities-4959365af8b4)
 - [Test File Upload](https://medium.com/@red.whisperer/5-advanced-ways-i-test-for-file-upload-vulnerabilities-5b01358f87d1)
+- [File Upload](https://book.hacktricks.xyz/pentesting-web/file-upload)
+- [Found Multiple XSS](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d)
