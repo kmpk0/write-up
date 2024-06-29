@@ -6,3 +6,4 @@
 - [Test File Upload](https://medium.com/@red.whisperer/5-advanced-ways-i-test-for-file-upload-vulnerabilities-5b01358f87d1)
 - [File Upload](https://book.hacktricks.xyz/pentesting-web/file-upload)
 - [Found Multiple XSS](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d)
+- [SSRF](https://t.me/therceman/177)
